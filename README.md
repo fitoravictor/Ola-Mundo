@@ -1,2 +1,4 @@
-# Curso em video
- Primeiro repositório do curso git e github guanabara
+# Olá, Mundo!
+ Primeiro repositório do curso de Git e GitHub
+
+ Repositório criado durante uma aula ao vivo!
