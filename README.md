@@ -4,3 +4,5 @@
  Repositório criado durante uma aula ao vivo!
  
  Essa linha eu adicionei direto pelo GitHub.
+ 
+ Mais uma linha adicionada.
